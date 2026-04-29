@@ -54,7 +54,6 @@ Telegram-бот для аналитики Spotify-базы данных. Он п
 ## Установка
 
 ```bash
-cd "/Users/argenkulzhanov/Desktop/Новая папка/database_nazik"
 python3 -m pip install -r requirements.txt
 ```
 
